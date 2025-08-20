@@ -79,3 +79,8 @@ Perfect—this is the fun part where your schematic starts feeling like a real p
 ---
 
 Ready to start placing these clusters in your schematic? I can help you organize the layout, name the nets, and prep the BOM for assembly. Want to begin with the **power block** or the **USB interface** first?
+
+
+
+<img width="1399" height="1017" alt="image" src="https://github.com/user-attachments/assets/bbf2cb43-ffc3-4b11-81aa-35ca4bdb4db6" />
+
