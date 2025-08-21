@@ -1,10 +1,3 @@
-Perfect—this is the fun part where your schematic starts feeling like a real product. Since you're building a **USB chess assistant** with HID emulation, Bluetooth/Wi-Fi, and expandability, let's cluster your components by **function**, and I’ll give you:
-
-- ✅ Exact part names and values  
-- ✅ Rational choices for portability and manufacturability  
-- ✅ Footprints optimized for Chinese PCB assembly (JLCPCB, PCBWay, etc.)
-
----
 
 ## 🧠 Cluster 1: **Core Controller – ESP32-S3-WROOM-1-N8R8**
 
@@ -78,7 +71,7 @@ Perfect—this is the fun part where your schematic starts feeling like a real p
 
 ---
 
-Ready to start placing these clusters in your schematic? I can help you organize the layout, name the nets, and prep the BOM for assembly. Want to begin with the **power block** or the **USB interface** first?
+
 
 
 
